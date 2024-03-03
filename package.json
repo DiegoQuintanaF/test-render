@@ -5,9 +5,10 @@
   "python": "3.7.10",
   "main": "app.js",
   "scripts": {
-    "dev": "node .\\src\\app.js",
-    "local": "nodemon .\\src\\app.js",
-    "build": "node i --production && node ./src/app.js"
+    "dev": "node ./src/app.js",
+    "local": "nodemon ./src/app.js",
+    "start": "node ./src/app.js",
+    "build": "node i --production"
   },
   "keywords": [],
   "author": "",
