@@ -6,7 +6,8 @@
   "main": "app.js",
   "scripts": {
     "dev": "node .\\src\\app.js",
-    "local": "nodemon .\\src\\app.js"
+    "local": "nodemon .\\src\\app.js",
+    "build": "node i --production && node ./src/app.js"
   },
   "keywords": [],
   "author": "",
