@@ -1,0 +1,12 @@
+axios
+bcrypt
+body-parser
+cookie-parser
+cors
+dotenv
+express
+jsonwebtoken
+mysql
+mysql2
+nodemon
+pg
